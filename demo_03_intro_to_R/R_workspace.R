@@ -53,7 +53,7 @@ rm(list=ls(all=TRUE))
 # Set working directory.
 # The '<-' operator denotes right-to-left assignment.
 # wdPath <- '/path/to/your/folder'
-wdPath <- 'C:/Users/le279259/Documents/Teaching/GEB6895_Fall2019/GitRepos/demo_03_intro_to_R'
+wdPath <- '/Users/mark.embuscado/documents/GEB6895_Fall_2019/GitRepos/fork/GEB6895F19/demo_03_intro_to_R'
 setwd(wdPath)
 
 # Check this in unix (doesn't always work in Windows).
@@ -124,6 +124,9 @@ true_statement1 <- value_of_pi == pi
 class(true_statement1)
 false_statement1 <- value_of_pi == pi + 2
 class(false_statement1)
+
+
+
 
 
 
