@@ -1,0 +1,19 @@
+# Write an R function that will perform the following.
+# a) Read in 5 separate numbers.
+# b) Calculate the average of the five numbers.
+# c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+# d) Write out the results found
+
+Start
+
+Ask user to enter 5 numbers 
+  Calculate the Sum of the numbers 
+  Divide the result by 5 
+ 
+ Determine min of the user defined values 
+ 
+ Determine max of the user defined values 
+ 
+ Print calculated values 
+ 
+ End 
