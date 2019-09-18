@@ -1,0 +1,11 @@
+Write an R function that will count all the even numbers up to a user defined stopping point.
+
+Ask user to enter a number 
+
+Define this number as the stopping point 
+
+Count from 1 to the defined number 
+
+Print results 
+
+End 
